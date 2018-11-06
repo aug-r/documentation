@@ -1,6 +1,9 @@
 # aug_r Documentation
 This document describes the high level architecture of the aug_r platform.
 
+## Product Narrative
+We’re building an iOS app and a web service to create a marketplace for hosting, viewing and sharing mixed and augmented reality content in order to rethink the entertainment experience. We aim to democratize the distribution of next generation immersive content.
+
 ## Parts
 aug_r is a full stack web app intended to run in the cloud, with a few different parts:
 
